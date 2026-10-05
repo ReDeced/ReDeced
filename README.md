@@ -25,12 +25,7 @@ gcc 14 · clang 21 · cmake · ninja · rustc 1.98 · python 3.14 · zsh
 | [direct_chat](https://github.com/ReDeced/direct_chat) | Messenger with end-to-end encryption. Curve25519 identity keys, private key never leaves the device, a per-chat symmetric key wrapped separately for every participant. Server stores ciphertext and forwards it back unchanged — it has no way to read any of it. |
 | [driftwm](https://github.com/ReDeced/driftwm) | Fork of [malbiruk/driftwm](https://github.com/malbiruk/driftwm), an infinite-canvas Wayland compositor — windows live at native size on a 2D canvas and the display is a camera over it. No tiling, no workspaces. Rust, built on smithay, trackpad-first. The project I care about most. |
 | [noctalia-qs](https://github.com/noctalia-dev/noctalia-qs) | Fork of Quickshell under which the shell runs, adding `ext-background-effect-v1` support. I build it from source at `~/builds/noctalia-qs`. |
-| [hamster-capture](https://github.com/ReDeced/hamster-capture) | Face capture pipeline and emotion classifier. ResNet-50 backbone with a custom head, OpenCV, live GUI capture feeding a worker pool. |
-| [OpenGL-Perlin-noise-renderer](https://github.com/ReDeced/OpenGL-Perlin-noise-renderer) | Perlin noise rendered on the GPU. C, C++, CMake, shaders. |
-| [team-lead-simulator](https://github.com/ReDeced/team-lead-simulator) | Rust logic with a web frontend. |
-| [TrainsManager](https://github.com/ReDeced/TrainsManager) · [arraylist](https://github.com/ReDeced/arraylist) | C++ with Python alongside. |
-| [FilmsTGBot](https://github.com/ReDeced/FilmsTGBot) · [MusicTGBot](https://github.com/ReDeced/MusicTGBot) | Telegram bots, Python. |
-| [BortovoyComputer](https://github.com/ReDeced/BortovoyComputer) | Python and batch scripting. |
+
 
 ## Why Void
 
